@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper Game in C
 A simple implementation of the Minesweeper game in C programming language.
 This implementation is basic and it was developed during the first semester of my computer engineering and informatics studies as an undergraduate student.
 
